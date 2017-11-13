@@ -1,5 +1,5 @@
 FROM nginx:latest
-
+#added a comment here
 # Copy index.html  
 COPY index.html /usr/share/nginx/html/ 
 
